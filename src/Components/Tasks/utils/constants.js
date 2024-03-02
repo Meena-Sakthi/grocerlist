@@ -80,8 +80,9 @@ export const books = [
   },
 ];
 
-export const experience = [
+export const experiences = [
   {
+    id: 1,
     workPlace: "TOMMY",
     role: "Full Stack Web Developer",
     workPeriod: "December 2015 - Present",
@@ -92,6 +93,7 @@ export const experience = [
     ],
   },
   {
+    id: 2,
     workPlace: "BIGDROP",
     role: "Front-End Engineer",
     workPeriod: "May 2015 - December 2015",
@@ -105,6 +107,7 @@ export const experience = [
     ],
   },
   {
+    id: 3,
     workPlace: "CUCER",
     role: "Engineering Intern",
     workPeriod: "May 2014 - September 2015",
